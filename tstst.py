@@ -10,5 +10,9 @@ print(lst)
 
 i = 0
 
-for i in range(1,1000,2):
+for i in range(1, 1000, 2):
     print("hi")
+
+    fgdftgdfgdfg
+
+C: \Users\Stud2\Documents\Алёна\templates\.git
