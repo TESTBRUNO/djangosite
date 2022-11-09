@@ -25,3 +25,5 @@ for i in f:
         print(i, "- чётное число")
     else:
         print(i, "- нечётное число")
+
+adsfasdfasdfasdf
