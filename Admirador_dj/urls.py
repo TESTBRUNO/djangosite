@@ -24,3 +24,5 @@ urlpatterns = [
     path('test', test_p)
 
 ]
+
+Просто текст.
